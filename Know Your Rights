@@ -1,8 +1,19 @@
 <!DOCTYPE html>
+<html>
 <head>
 <title>
+Immigration Current Events
 </title>
 </head>
 <body>
+<nav>
+<div id="homepage"> <a href=".html"> Home </a> </div>
+<div id="timeline"> <a href= ".html'> Immigration in the United States History </a> </div>
+<div id="Current Laws"> <a href=".html"> Current Immigration Laws </a>  </div>
+<div id="Know Your Rights"> <a href=".html"> Know Your Rights and How to Protect Yourself </a> </div>  
+<div id="Register to Vote"> <a href=".html"> Register or Preregister to Vote </a> </div>
+<div id="Additional Resources"> <a href=.html> Additional Resources </a> </div> 
+<div id="Contact Me"> <a href=".html"> Contact </a> </div>
+</nav>
 </body>
 </html>
