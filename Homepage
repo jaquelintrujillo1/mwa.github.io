@@ -6,6 +6,7 @@ Immigration Current Events
 </title>
 </head>
 <body>
+<h1> Immigration Current Events </h1>
 <nav>
 <div id="homepage"> <a href=".html"> Home </a> </div>
 <div id="timeline"> <a href= ".html'> Immigration in the United States History </a> </div>
@@ -15,5 +16,8 @@ Immigration Current Events
 <div id="Additional Resources"> <a href=.html> Additional Resources </a> </div> 
 <div id="Contact Me"> <a href=".html"> Contact </a> </div>
 </nav>
+<p> This website is dedicated to informing every citizen to their rights and giving additional resources, in case they are needed.
+Here you will find information such as current immigration laws, registering to vote, you rights, DACA and DACA renewals and 
+strategies that will help with mental health issues. </p>
 </body>
 </html>
