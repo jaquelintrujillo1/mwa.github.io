@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+}
+nav {
+  list-style-type: none;
+  margin: auto;
+  width: auto;
+  background-color: #FEFEFE;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+nav a {
+ display: inline;
+ display: block;
+ color: black;
+ padding: 8px 16px;
+ text-decoration: none;
+ text-align: center;
+ width: auto;
+}
+nav a:hover {
+ background-color: #555;
+ color: lightgrey;
+}
+#introduction {
+text-align: center;
+}
+#contactjaky {
+  text-align: center
+}
